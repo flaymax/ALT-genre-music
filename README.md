@@ -9,3 +9,5 @@ An enthusiast's project to recognize words in music of different genres using Wh
 - remember all the staff
 - find the notebooks and project
 - make a plan
+
+надо подумать что с обучением (ноутбук умирает)
