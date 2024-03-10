@@ -1,5 +1,6 @@
 # ALT-genre-music
 
+An enthusiast's project to recognize words in music of different genres using Whisper by OpenAI
 
 ## Project Roadmap
 
